@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.heyb.top/2022/08/10/2022-hello-world.html</loc>
+    
+    <lastmod>2022-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2022/08/11/tech.html</loc>
+    
+    <lastmod>2022-08-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.heyb.top/links/index.html</loc>
     
     <lastmod>2022-08-08</lastmod>
@@ -29,15 +47,6 @@
   </url>
   
   <url>
-    <loc>http://blog.heyb.top/2022/08/06/how-do-you-do.html</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.heyb.top/tags/index.html</loc>
     
     <lastmod>2022-08-07</lastmod>
@@ -47,61 +56,7 @@
   </url>
   
   <url>
-    <loc>http://blog.heyb.top/2022/08/06/hello-world.html</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/2022/08/06/hello-world.html</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/2022/08/06/hello-world.html</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.heyb.top/repository/index.html</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/2022/08/06/hello-world.html</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/2022/08/06/hello-world.html</loc>
-    
-    <lastmod>2022-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/2022/08/06/hello-world.html</loc>
     
     <lastmod>2022-08-07</lastmod>
     
@@ -121,12 +76,26 @@
 
   <url>
     <loc>http://blog.heyb.top/</loc>
-    <lastmod>2022-08-08</lastmod>
+    <lastmod>2022-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>http://blog.heyb.top/tags/%E4%B8%AA%E4%BA%BA/</loc>
+    <lastmod>2022-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://blog.heyb.top/categories/%E4%B8%AA%E4%BA%BA/</loc>
+    <lastmod>2022-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
