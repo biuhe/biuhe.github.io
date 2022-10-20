@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.heyb.top/2022/08/10/2022-hello-world.html</loc>
-    <lastmod>2022-08-11</lastmod>
+    <loc>http://blog.heyb.top/2022/09/10/%5Bhexo%5D-1---use-hexo-to-build-a-personal-blog.html</loc>
+    <lastmod>2022-10-20</lastmod>
   </url>
   <url>
-    <loc>http://blog.heyb.top/2022/08/11/tech.html</loc>
-    <lastmod>2022-08-11</lastmod>
+    <loc>http://blog.heyb.top/2022/08/12/%E3%80%90node%E3%80%91node.-js-installation-configuration.html</loc>
+    <lastmod>2022-10-19</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2022/09/10/%5Bhexo%5D-use-hexo-to-build-a-personal-blog.html</loc>
+    <lastmod>2022-10-18</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2022/08/19/%E3%80%90node%E3%80%91node.-js-version-management-promotion-and-demotion.html</loc>
+    <lastmod>2022-10-18</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2022/08/10/hello-hexo.html</loc>
+    <lastmod>2022-08-12</lastmod>
   </url>
 </urlset> 
