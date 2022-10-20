@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>http://blog.heyb.top/2022/09/10/[hexo]-use-hexo-to-build-a-personal-blog.html</loc>
-    
-    <lastmod>2022-10-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.heyb.top/2022/08/19/%E3%80%90node%E3%80%91node.-js-version-management-promotion-and-demotion.html</loc>
     
     <lastmod>2022-10-18</lastmod>
@@ -117,27 +108,6 @@
   </url>
   
   <url>
-    <loc>http://blog.heyb.top/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/tags/Node/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/tags/NVM/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.heyb.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,31 +128,31 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://blog.heyb.top/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/Node/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/NVM/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>http://blog.heyb.top/categories/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/Node/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -196,6 +166,13 @@
   </url>
   
   <url>
+    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.heyb.top/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -203,7 +180,21 @@
   </url>
   
   <url>
+    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.heyb.top/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/Hexo/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/Node/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
