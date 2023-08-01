@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.heyb.top/2023/07/08/stable-diffusion-webui-for-linux-installation-tutorial.html</loc>
+    <lastmod>2023-07-16</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/06/27/stable-diffusion-web-ui-installation-tutorial.html</loc>
+    <lastmod>2023-07-16</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/06/15/python-implementation-of-human-posture-recognition-in-images-based-on-openpose.html</loc>
+    <lastmod>2023-06-27</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/06/11/python-implementation-of-face-recognition-in-images-based-on-opencv.html</loc>
+    <lastmod>2023-06-27</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2022/08/19/node.-js-version-management-upgrade.html</loc>
+    <lastmod>2023-06-23</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/06/07/python-implementation-for-extracting-the-main-color-schemes-in-images.html</loc>
+    <lastmod>2023-06-07</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/01/08/python-requirement-dependency-management.-md.html</loc>
+    <lastmod>2023-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/01/06/ocr-paddleocr.html</loc>
+    <lastmod>2023-04-04</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/02/05/python-convert-pdf-to-word.html</loc>
+    <lastmod>2023-04-03</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.heyb.top/2023/01/05/markdown-common-formula-of-markdown.html</loc>
+    <lastmod>2023-01-05</lastmod>
+  </url>
+  <url>
     <loc>http://blog.heyb.top/2022/12/31/2022-summary.html</loc>
     <lastmod>2022-12-31</lastmod>
   </url>
@@ -74,10 +114,6 @@
   </url>
   <url>
     <loc>http://blog.heyb.top/2022/08/12/node-node.js-installation-configuration.html</loc>
-    <lastmod>2022-12-25</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.heyb.top/2022/08/19/%5Bnode%5D-node.js-version-management-upgrade.html</loc>
     <lastmod>2022-12-25</lastmod>
   </url>
   <url>

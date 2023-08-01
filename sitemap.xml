@@ -2,6 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.heyb.top/2023/07/08/stable-diffusion-webui-for-linux-installation-tutorial.html</loc>
+    
+    <lastmod>2023-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/06/27/stable-diffusion-web-ui-installation-tutorial.html</loc>
+    
+    <lastmod>2023-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/06/15/python-implementation-of-human-posture-recognition-in-images-based-on-openpose.html</loc>
+    
+    <lastmod>2023-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/06/11/python-implementation-of-face-recognition-in-images-based-on-opencv.html</loc>
+    
+    <lastmod>2023-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2022/08/19/node.-js-version-management-upgrade.html</loc>
+    
+    <lastmod>2023-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/06/07/python-implementation-for-extracting-the-main-color-schemes-in-images.html</loc>
+    
+    <lastmod>2023-06-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/01/08/python-requirement-dependency-management.-md.html</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/01/06/ocr-paddleocr.html</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/02/05/python-convert-pdf-to-word.html</loc>
+    
+    <lastmod>2023-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/2023/01/05/markdown-common-formula-of-markdown.html</loc>
+    
+    <lastmod>2023-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.heyb.top/2022/12/31/2022-summary.html</loc>
     
     <lastmod>2022-12-31</lastmod>
@@ -173,15 +263,6 @@
   </url>
   
   <url>
-    <loc>http://blog.heyb.top/2022/08/19/[node]-node.js-version-management-upgrade.html</loc>
-    
-    <lastmod>2022-12-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.heyb.top/2022/09/10/hexo-1---use-hexo-to-build-a-personal-blog.html</loc>
     
     <lastmod>2022-12-06</lastmod>
@@ -256,7 +337,7 @@
 
   <url>
     <loc>http://blog.heyb.top/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -264,168 +345,252 @@
   
   <url>
     <loc>http://blog.heyb.top/tags/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Blog/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Hexo/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Golang/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/gin/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/viper/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/gorm/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Java/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Python/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/PPT/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Windows/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/%E5%8D%8E%E4%B8%BA%E4%BA%91/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/RDS/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Node/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/go-mod/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/NVM/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/ChatGPT/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/OpenAI/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/%E5%AE%B9%E5%99%A8/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Docker/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/tags/Dockerfile/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/OpenCV/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/Haishoku/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/Word/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/AI/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/Stable-Diffusion/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/OCR/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/Markdown/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/OpenPose/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/tags/%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -434,126 +599,154 @@
   
   <url>
     <loc>http://blog.heyb.top/categories/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E5%86%99%E4%BD%9C/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/Golang/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/Java/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/Python/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/Windows/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/RDS/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%AE%B9%E5%99%A8/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E5%86%99%E4%BD%9C/%E5%8D%9A%E5%AE%A2/Hexo/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/RDS/%E5%8D%8E%E4%B8%BA%E4%BA%91/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF/Node/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%85%B6%E4%BB%96/AI/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%AE%B9%E5%99%A8/Docker/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/%E5%85%B6%E4%BB%96/AI/ChatGPT/</loc>
-    <lastmod>2022-12-31</lastmod>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/AI/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/OCR/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/categories/%E5%86%99%E4%BD%9C/Markdown/</loc>
+    <lastmod>2023-08-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.heyb.top/categories/%E6%8A%80%E6%9C%AF/AI/Stable-Diffusion/</loc>
+    <lastmod>2023-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
